@@ -1,4 +1,7 @@
 # Comprehensive Analysis of Maritime Piracy Incidents
+<div id="header" align="center">
+  <img src="image.jpeg" width="800" height="400"/>
+</div>
 
 ## Introduction
 The maritime industry plays a critical role in global trade, but it faces significant challenges due to piracy threats that endanger cargo, crew, and vessel safety. This research aims to provide a comprehensive overview of ship piracy occurrences, focusing on trends, affected areas, and essential insights for stakeholders within the maritime sector.
@@ -56,3 +59,9 @@ To analyze evolving trends, identify vulnerabilities, and devise effective solut
 # Conclusion
 
 Ship piracy remains a pressing concern for the maritime industry, necessitating proactive measures to ensure the safety and security of vessels, crews, and cargo. By leveraging data analysis and implementing comprehensive security measures, the industry can mitigate risks and safeguard against pirate attacks.
+
+## Dashboard
+
+<div id="header" align="center">
+  <img src="Pirate.PNG">
+</div>
